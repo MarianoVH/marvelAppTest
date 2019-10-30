@@ -1,0 +1,28 @@
+div.modalContainer {
+  background-color: #f1f1f1;
+  min-height: 90vh;
+  div.modal {
+    background: white;
+    padding: 20px;
+    min-height: 90vh;
+    div.characterDisplay, h2, h3 {
+      text-align: center;
+    }
+    button {
+      cursor: pointer;
+      background-color: white;
+      border: none;
+      font-size: 30px;
+      &:hover {
+        color: red;
+      }
+    }
+    ul {
+      text-align: center;
+      list-style: none;
+      li {
+        padding: 10px;
+      }
+    }
+  }
+}

@@ -1,0 +1,20 @@
+form.formSearch{
+  display: flex;
+  align-items: center;
+  width: 65%;
+  img.iconSearch {
+    height: 20px;
+  }
+  input {
+    height: 35px;
+    width: 100%;
+    border: none;
+    padding: 5px 10px;
+    &:hover{
+      border: none;
+    }
+    &:focus{
+      outline :none;
+    }
+  }
+}
