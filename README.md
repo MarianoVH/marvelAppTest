@@ -1,3 +1,8 @@
+heroku : http://rocky-beach-38694.herokuapp.com/
+
+Pueden haber algunas muy menores diferencias entre el repositorio y la app. 
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
